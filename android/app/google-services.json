@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585819160517",
+    "project_id": "newstroreapp",
+    "storage_bucket": "newstroreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585819160517:android:8f2fffdbd213f17b71d5ac",
+        "android_client_info": {
+          "package_name": "com.example.newstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585819160517-s2lgk8loorh2dstl9rpqpfgeibo0bi22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf75L20A4jVHlrlvrAuO-7hfOoInstjBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585819160517-s2lgk8loorh2dstl9rpqpfgeibo0bi22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
