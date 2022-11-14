@@ -7,7 +7,7 @@ import 'package:newstoreapp/main_screens/supplier_home_screen.dart';
 import 'package:newstoreapp/main_screens/welcome_screen.dart';
 
 import 'main_screens/customer_home_screen.dart';
-
+//this is our project
 void main()async {
   WidgetsFlutterBinding.ensureInitialized();
  await Firebase.initializeApp();
